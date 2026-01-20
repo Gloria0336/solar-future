@@ -1,0 +1,25 @@
+​:codex-file-citation[codex-file-citation]{line_range_start=1 line_range_end=25 path=README.md git_url="https://github.com/Gloria0336/solar-future/blob/main/README.md#L1-L25"}​
+
+### `package.json`
+```json
+{
+  "name": "metaverse-sim-ui-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.12",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.4.5"
+  }
+}
